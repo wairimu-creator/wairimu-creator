@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wairimu-creator
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Cyber Security / Computer Network Architect
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alexandun94@gmail.com
